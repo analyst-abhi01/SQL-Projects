@@ -1,4 +1,4 @@
-# SQL Project Showcase: Digital Music Store Analysis 🎵
+# SQL Project Showcase 📂
 
 Welcome to my SQL Projects Showcase! This repository contains my key SQL project, where I have demonstrated my expertise in data querying, analysis, and insights generation using SQL. This project reflects my ability to work with structured data, write efficient SQL queries, and extract valuable business insights.
 
