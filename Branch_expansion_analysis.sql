@@ -212,7 +212,8 @@ JOIN city_table as ct
 	ON cr.city_name = ct.city_name
 ORDER BY 2 DESC
 
-# ☕ Monday Coffee – Expansion Recommendation Analysis
+#  Branch Expansion Analysis
+	
 #🎯 Objective
 -- 1.Identify the Top 3 cities where Monday Coffee should open its next branches based on:
 -- 2.Revenue potential
